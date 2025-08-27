@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+.env/
+__pycache__/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE configs
+.vscode/
+.idea/
+
+# Ignore extracted folders
+ai_partner_all_in_one/
